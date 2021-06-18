@@ -1,3 +1,3 @@
 # cv
 picture processing
-hand-gesture hmoework
+hand-gesture homework
